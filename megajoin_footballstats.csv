@@ -1,0 +1,381 @@
+game_week,home_team_name_home,away_team_name_away,home_wld_home,away_wld_away,home_result,away_result,home_team_goal_count,away_team_goal_count,home_form,away_form,median_form
+1,Watford,Brighton & Hove Albion,W,L,3,0,2,0,3,0,1.5
+1,Fulham,Crystal Palace,L,W,0,3,0,2,0,3,1.5
+1,Southampton,Burnley,D,D,1,1,0,0,1,1,1
+1,Arsenal,Manchester City,L,W,0,3,0,2,0,3,1.5
+1,Liverpool,West Ham United,W,L,3,0,4,0,3,0,1.5
+1,Huddersfield Town,Chelsea,L,W,0,3,0,3,0,3,1.5
+1,Wolverhampton Wanderers,Everton,D,D,1,1,2,2,1,1,1
+1,AFC Bournemouth,Cardiff City,W,L,3,0,2,0,3,0,1.5
+1,Manchester United,Leicester City,W,L,3,0,2,1,3,0,1.5
+1,Newcastle United,Tottenham Hotspur,L,W,0,3,1,2,0,3,1.5
+2,Everton,Southampton,W,L,3,0,2,1,1.5,0,0.75
+2,Tottenham Hotspur,Fulham,W,L,3,0,3,1,1.5,0,0.75
+2,Crystal Palace,Liverpool,L,W,0,3,0,2,0,1.5,0.75
+2,Manchester City,Huddersfield Town,W,L,3,0,6,1,1.5,0,0.75
+2,West Ham United,AFC Bournemouth,L,W,0,3,1,2,0,1.5,0.75
+2,Burnley,Watford,L,W,0,3,1,3,0,1.5,0.75
+2,Cardiff City,Newcastle United,D,D,1,1,0,0,0.5,0.5,0.5
+2,Chelsea,Arsenal,W,L,3,0,3,2,1.5,0,0.75
+2,Brighton & Hove Albion,Manchester United,W,L,3,0,3,2,1.5,0,0.75
+2,Leicester City,Wolverhampton Wanderers,W,L,3,0,2,0,1.5,0,0.75
+3,Huddersfield Town,Cardiff City,D,D,1,1,0,0,0.33,0.33,0.33
+3,AFC Bournemouth,Everton,D,D,4,2,2,2,1.33,0.67,1
+3,Newcastle United,Chelsea,L,W,0,6,1,2,0,2,1
+3,Fulham,Burnley,W,L,3,1,4,2,1,0.33,0.665
+3,Manchester United,Tottenham Hotspur,L,W,3,6,0,3,1,2,1.5
+3,Wolverhampton Wanderers,Manchester City,D,D,2,4,1,1,0.67,1.33,1
+3,Liverpool,Brighton & Hove Albion,W,L,6,0,1,0,2,0,1
+3,Watford,Crystal Palace,W,L,6,3,2,1,2,1,1.5
+3,Southampton,Leicester City,L,W,1,3,1,2,0.33,1,0.665
+3,Arsenal,West Ham United,W,L,3,0,3,1,1,0,0.5
+4,Manchester City,Newcastle United,W,L,6,1,2,1,1.5,0.25,0.875
+4,Burnley,Manchester United,L,W,0,3,0,2,0,0.75,0.375
+4,Chelsea,AFC Bournemouth,W,L,6,3,2,0,1.5,0.75,1.125
+4,Leicester City,Liverpool,L,W,3,6,1,2,0.75,1.5,1.125
+4,Watford,Tottenham Hotspur,W,L,9,6,2,1,2.25,1.5,1.875
+4,Cardiff City,Arsenal,L,W,1,3,2,3,0.25,0.75,0.5
+4,Crystal Palace,Southampton,L,W,0,3,0,2,0,0.75,0.375
+4,West Ham United,Wolverhampton Wanderers,L,W,0,3,0,1,0,0.75,0.375
+4,Everton,Huddersfield Town,D,D,4,1,1,1,1,0.25,0.625
+4,Brighton & Hove Albion,Fulham,D,D,4,1,2,2,1,0.25,0.625
+5,Chelsea,Cardiff City,W,L,9,1,4,1,1.8,0.2,1
+5,Manchester City,Fulham,W,L,9,1,3,0,1.8,0.2,1
+5,Everton,West Ham United,L,W,4,3,1,3,0.8,0.6,0.7
+5,Huddersfield Town,Crystal Palace,L,W,1,6,0,1,0.2,1.2,0.7
+5,Tottenham Hotspur,Liverpool,L,W,3,9,1,2,0.6,1.8,1.2
+5,Southampton,Brighton & Hove Albion,D,D,2,1,2,2,0.4,0.2,0.3
+5,Watford,Manchester United,L,W,9,6,1,2,1.8,1.2,1.5
+5,AFC Bournemouth,Leicester City,W,L,7,3,4,2,1.4,0.6,1
+5,Wolverhampton Wanderers,Burnley,W,L,5,1,1,0,1,0.2,0.6
+5,Newcastle United,Arsenal,L,W,0,6,1,2,0,1.2,0.6
+6,West Ham United,Chelsea,D,D,1,7,0,0,0.17,1.17,0.67
+6,Brighton & Hove Albion,Tottenham Hotspur,L,W,4,9,1,2,0.67,1.5,1.085
+6,Cardiff City,Manchester City,L,W,1,7,0,5,0.17,1.17,0.67
+6,Leicester City,Huddersfield Town,W,L,6,1,3,1,1,0.17,0.585
+6,Fulham,Watford,D,D,4,4,1,1,0.67,0.67,0.67
+6,Arsenal,Everton,W,L,6,2,2,0,1,0.33,0.665
+6,Burnley,AFC Bournemouth,W,L,3,3,4,0,0.5,0.5,0.5
+6,Manchester United,Wolverhampton Wanderers,D,D,4,4,1,1,0.67,0.67,0.67
+6,Crystal Palace,Newcastle United,D,D,1,2,0,0,0.17,0.33,0.25
+6,Liverpool,Southampton,W,L,9,3,3,0,1.5,0.5,1
+7,Newcastle United,Leicester City,L,W,0,6,0,2,0,0.86,0.43
+7,Arsenal,Watford,W,L,9,4,2,0,1.29,0.57,0.93
+7,West Ham United,Manchester United,W,L,4,6,3,1,0.57,0.86,0.715
+7,Manchester City,Brighton & Hove Albion,W,L,12,1,2,0,1.71,0.14,0.925
+7,Wolverhampton Wanderers,Southampton,W,L,8,3,2,0,1.14,0.43,0.785
+7,Everton,Fulham,W,L,7,1,3,0,1,0.14,0.57
+7,Chelsea,Liverpool,D,D,10,10,1,1,1.43,1.43,1.43
+7,Huddersfield Town,Tottenham Hotspur,L,W,1,12,0,2,0.14,1.71,0.925
+7,Cardiff City,Burnley,L,W,1,4,1,2,0.14,0.57,0.355
+7,AFC Bournemouth,Crystal Palace,W,L,10,6,2,1,1.43,0.86,1.145
+8,Burnley,Huddersfield Town,D,D,4,2,1,1,0.5,0.25,0.375
+8,Crystal Palace,Wolverhampton Wanderers,L,W,1,7,0,1,0.13,0.88,0.505
+8,Leicester City,Everton,L,W,6,5,1,2,0.75,0.63,0.69
+8,Fulham,Arsenal,L,W,4,9,1,5,0.5,1.13,0.815
+8,Watford,AFC Bournemouth,L,W,9,6,0,4,1.13,0.75,0.94
+8,Southampton,Chelsea,L,W,2,10,0,3,0.25,1.25,0.75
+8,Liverpool,Manchester City,D,D,10,8,0,0,1.25,1,1.125
+8,Tottenham Hotspur,Cardiff City,W,L,6,1,1,0,0.75,0.13,0.44
+8,Brighton & Hove Albion,West Ham United,W,L,7,3,1,0,0.88,0.38,0.63
+8,Manchester United,Newcastle United,W,L,7,2,3,2,0.88,0.25,0.565
+9,Wolverhampton Wanderers,Watford,L,W,8,7,0,2,0.89,0.78,0.835
+9,AFC Bournemouth,Southampton,D,D,11,4,0,0,1.22,0.44,0.83
+9,Manchester City,Burnley,W,L,15,4,5,0,1.67,0.44,1.055
+9,Chelsea,Manchester United,D,D,11,7,2,2,1.22,0.78,1
+9,Cardiff City,Fulham,W,L,4,1,4,2,0.44,0.11,0.275
+9,Huddersfield Town,Liverpool,L,W,1,13,0,1,0.11,1.44,0.775
+9,Everton,Crystal Palace,W,L,10,6,2,0,1.11,0.67,0.89
+9,Newcastle United,Brighton & Hove Albion,L,W,0,4,0,1,0,0.44,0.22
+9,West Ham United,Tottenham Hotspur,L,W,4,15,0,1,0.44,1.67,1.055
+9,Arsenal,Leicester City,W,L,12,6,3,1,1.33,0.67,1
+10,Leicester City,West Ham United,D,D,7,4,1,1,0.7,0.4,0.55
+10,Southampton,Newcastle United,D,D,3,3,0,0,0.3,0.3,0.3
+10,Burnley,Chelsea,L,W,4,13,0,4,0.4,1.3,0.85
+10,Crystal Palace,Arsenal,D,D,2,10,2,2,0.2,1,0.6
+10,Tottenham Hotspur,Manchester City,L,W,6,11,0,1,0.6,1.1,0.85
+10,Liverpool,Cardiff City,W,L,13,1,4,1,1.3,0.1,0.7
+10,Manchester United,Everton,W,L,10,5,2,1,1,0.5,0.75
+10,Brighton & Hove Albion,Wolverhampton Wanderers,W,L,10,7,1,0,1,0.7,0.85
+10,Watford,Huddersfield Town,W,L,12,2,3,0,1.2,0.2,0.7
+10,Fulham,AFC Bournemouth,L,W,4,9,0,3,0.4,0.9,0.65
+11,Wolverhampton Wanderers,Tottenham Hotspur,L,W,8,18,2,3,0.73,1.64,1.185
+11,Chelsea,Crystal Palace,W,L,14,6,3,1,1.27,0.55,0.91
+11,West Ham United,Burnley,W,L,7,4,4,2,0.64,0.36,0.5
+11,Newcastle United,Watford,W,L,3,7,1,0,0.27,0.64,0.455
+11,Huddersfield Town,Fulham,W,L,4,1,1,0,0.36,0.09,0.225
+11,Everton,Brighton & Hove Albion,W,L,13,4,3,1,1.18,0.36,0.77
+11,Cardiff City,Leicester City,L,W,4,9,0,1,0.36,0.82,0.59
+11,AFC Bournemouth,Manchester United,L,W,11,10,1,2,1,0.91,0.955
+11,Manchester City,Southampton,W,L,18,4,6,1,1.64,0.36,1
+11,Arsenal,Liverpool,D,D,13,14,1,1,1.18,1.27,1.225
+12,Arsenal,Wolverhampton Wanderers,D,D,14,8,1,1,1.17,0.67,0.92
+12,Newcastle United,AFC Bournemouth,W,L,6,9,2,1,0.5,0.75,0.625
+12,Liverpool,Fulham,W,L,16,1,2,0,1.33,0.08,0.705
+12,Leicester City,Burnley,D,D,8,5,0,0,0.67,0.42,0.545
+12,Chelsea,Everton,D,D,15,6,0,0,1.25,0.5,0.875
+12,Manchester City,Manchester United,W,L,21,10,3,1,1.75,0.83,1.29
+12,Crystal Palace,Tottenham Hotspur,L,W,2,21,0,1,0.17,1.75,0.96
+12,Southampton,Watford,D,D,4,8,1,1,0.33,0.67,0.5
+12,Huddersfield Town,West Ham United,D,D,5,5,1,1,0.42,0.42,0.42
+12,Cardiff City,Brighton & Hove Albion,W,L,7,4,2,1,0.58,0.33,0.455
+13,Wolverhampton Wanderers,Huddersfield Town,L,W,8,5,0,2,0.62,0.38,0.5
+13,Manchester United,Crystal Palace,D,D,11,7,0,0,0.85,0.54,0.695
+13,AFC Bournemouth,Arsenal,L,W,11,13,1,2,0.85,1,0.925
+13,Tottenham Hotspur,Chelsea,W,L,9,13,3,1,0.69,1,0.845
+13,Watford,Liverpool,L,W,12,17,0,3,0.92,1.31,1.115
+13,Fulham,Southampton,W,L,7,4,3,2,0.54,0.31,0.425
+13,Burnley,Newcastle United,L,W,4,6,1,2,0.31,0.46,0.385
+13,Brighton & Hove Albion,Leicester City,D,D,11,10,1,1,0.85,0.77,0.81
+13,Everton,Cardiff City,W,L,16,1,1,0,1.23,0.08,0.655
+13,West Ham United,Manchester City,L,W,7,14,0,4,0.54,1.08,0.81
+14,Newcastle United,West Ham United,L,W,6,8,0,3,0.43,0.57,0.5
+14,Manchester City,AFC Bournemouth,W,L,24,9,3,1,1.71,0.64,1.175
+14,Leicester City,Watford,W,L,11,8,2,0,0.79,0.57,0.68
+14,Huddersfield Town,Brighton & Hove Albion,L,W,5,7,1,2,0.36,0.5,0.43
+14,Chelsea,Fulham,W,L,18,1,2,0,1.29,0.07,0.68
+14,Southampton,Manchester United,D,D,5,11,2,2,0.36,0.79,0.575
+14,Cardiff City,Wolverhampton Wanderers,W,L,10,8,2,1,0.71,0.57,0.64
+14,Crystal Palace,Burnley,W,L,5,5,2,0,0.36,0.36,0.36
+14,Liverpool,Everton,W,L,19,6,1,0,1.36,0.43,0.895
+14,Arsenal,Tottenham Hotspur,W,L,17,21,4,2,1.21,1.5,1.355
+15,West Ham United,Cardiff City,W,L,10,1,3,1,0.67,0.07,0.37
+15,Tottenham Hotspur,Southampton,W,L,12,4,3,1,0.8,0.27,0.535
+15,Fulham,Leicester City,D,D,8,11,1,1,0.53,0.73,0.63
+15,Watford,Manchester City,L,W,12,17,1,2,0.8,1.13,0.965
+15,Manchester United,Arsenal,D,D,12,14,2,2,0.8,0.93,0.865
+15,AFC Bournemouth,Huddersfield Town,W,L,14,5,2,1,0.93,0.33,0.63
+15,Brighton & Hove Albion,Crystal Palace,W,L,14,7,3,1,0.93,0.47,0.7
+15,Wolverhampton Wanderers,Chelsea,W,L,11,13,2,1,0.73,0.87,0.8
+15,Burnley,Liverpool,L,W,4,20,1,3,0.27,1.33,0.8
+15,Everton,Newcastle United,D,D,17,7,1,1,1.13,0.47,0.8
+16,Newcastle United,Wolverhampton Wanderers,L,W,6,11,1,2,0.38,0.69,0.535
+16,AFC Bournemouth,Liverpool,L,W,14,23,0,4,0.88,1.44,1.16
+16,Cardiff City,Southampton,W,L,13,4,1,0,0.81,0.25,0.53
+16,Everton,Watford,D,D,18,9,2,2,1.13,0.56,0.845
+16,Manchester United,Fulham,W,L,15,1,4,1,0.94,0.06,0.5
+16,West Ham United,Crystal Palace,W,L,13,7,3,2,0.81,0.44,0.625
+16,Arsenal,Huddersfield Town,W,L,20,5,1,0,1.25,0.31,0.78
+16,Leicester City,Tottenham Hotspur,L,W,11,24,0,2,0.69,1.5,1.095
+16,Chelsea,Manchester City,W,L,21,17,2,0,1.31,1.06,1.185
+16,Burnley,Brighton & Hove Albion,W,L,7,7,1,0,0.44,0.44,0.44
+17,Southampton,Arsenal,W,L,8,14,3,2,0.47,0.82,0.645
+17,Fulham,West Ham United,L,W,8,11,0,2,0.47,0.65,0.56
+17,Crystal Palace,Leicester City,W,L,8,11,1,0,0.47,0.65,0.56
+17,Huddersfield Town,Newcastle United,L,W,5,10,0,1,0.29,0.59,0.44
+17,Manchester City,Everton,W,L,27,6,3,1,1.59,0.35,0.97
+17,Liverpool,Manchester United,W,L,22,11,3,1,1.29,0.65,0.97
+17,Watford,Cardiff City,W,L,15,1,3,2,0.88,0.06,0.47
+17,Wolverhampton Wanderers,AFC Bournemouth,W,L,14,9,2,0,0.82,0.53,0.675
+17,Tottenham Hotspur,Burnley,W,L,15,5,1,0,0.88,0.29,0.585
+17,Brighton & Hove Albion,Chelsea,L,W,14,16,1,2,0.82,0.94,0.88
+18,AFC Bournemouth,Brighton & Hove Albion,W,L,17,7,2,0,0.94,0.39,0.665
+18,Chelsea,Leicester City,L,W,21,14,0,1,1.17,0.78,0.975
+18,West Ham United,Watford,L,W,13,12,0,2,0.72,0.67,0.695
+18,Manchester City,Crystal Palace,L,W,27,10,2,3,1.5,0.56,1.03
+18,Cardiff City,Manchester United,L,W,13,14,1,5,0.72,0.78,0.75
+18,Everton,Tottenham Hotspur,L,W,18,27,2,6,1,1.5,1.25
+18,Huddersfield Town,Southampton,L,W,5,7,1,3,0.28,0.39,0.335
+18,Newcastle United,Fulham,D,D,7,2,0,0,0.39,0.11,0.25
+18,Arsenal,Burnley,W,L,23,5,3,1,1.28,0.28,0.78
+18,Wolverhampton Wanderers,Liverpool,L,W,14,26,0,2,0.78,1.44,1.11
+19,Southampton,West Ham United,L,W,8,14,1,2,0.42,0.74,0.58
+19,Liverpool,Newcastle United,W,L,25,10,4,0,1.32,0.53,0.925
+19,Tottenham Hotspur,AFC Bournemouth,W,L,18,9,5,0,0.95,0.47,0.71
+19,Brighton & Hove Albion,Arsenal,D,D,15,15,1,1,0.79,0.79,0.79
+19,Burnley,Everton,L,W,7,9,1,5,0.37,0.47,0.42
+19,Watford,Chelsea,L,W,15,19,1,2,0.79,1,0.895
+19,Manchester United,Huddersfield Town,W,L,18,5,3,1,0.95,0.26,0.605
+19,Fulham,Wolverhampton Wanderers,D,D,9,12,1,1,0.47,0.63,0.55
+19,Crystal Palace,Cardiff City,D,D,9,2,0,0,0.47,0.11,0.29
+19,Leicester City,Manchester City,W,L,14,17,2,1,0.74,0.89,0.815
+20,Southampton,Manchester City,L,W,8,20,1,3,0.4,1,0.7
+20,Manchester United,AFC Bournemouth,W,L,21,9,4,1,1.05,0.45,0.75
+20,Burnley,West Ham United,W,L,10,14,2,0,0.5,0.7,0.6
+20,Watford,Newcastle United,D,D,16,11,1,1,0.8,0.55,0.675
+20,Leicester City,Cardiff City,L,W,14,5,0,1,0.7,0.25,0.475
+20,Fulham,Huddersfield Town,W,L,12,5,1,0,0.6,0.25,0.425
+20,Liverpool,Arsenal,W,L,28,15,5,1,1.4,0.75,1.075
+20,Crystal Palace,Chelsea,L,W,9,22,0,1,0.45,1.1,0.775
+20,Tottenham Hotspur,Wolverhampton Wanderers,L,W,18,15,1,3,0.9,0.75,0.825
+20,Brighton & Hove Albion,Everton,W,L,18,9,1,0,0.9,0.45,0.675
+21,Chelsea,Southampton,D,D,22,8,0,0,1.05,0.38,0.715
+21,Newcastle United,Manchester United,L,W,7,17,0,2,0.33,0.81,0.57
+21,Arsenal,Fulham,W,L,26,2,4,1,1.24,0.1,0.67
+21,Wolverhampton Wanderers,Crystal Palace,L,W,14,13,0,2,0.67,0.62,0.645
+21,Huddersfield Town,Burnley,L,W,5,8,1,2,0.24,0.38,0.31
+21,Manchester City,Liverpool,W,L,30,26,2,1,1.43,1.24,1.335
+21,Cardiff City,Tottenham Hotspur,L,W,13,30,0,3,0.62,1.43,1.025
+21,Everton,Leicester City,L,W,18,17,0,1,0.86,0.81,0.835
+21,AFC Bournemouth,Watford,D,D,18,13,3,3,0.86,0.62,0.74
+21,West Ham United,Brighton & Hove Albion,D,D,14,8,2,2,0.67,0.38,0.525
+22,Everton,AFC Bournemouth,W,L,21,9,2,0,0.95,0.41,0.68
+22,Chelsea,Newcastle United,W,L,25,11,2,1,1.14,0.5,0.82
+22,Burnley,Fulham,W,L,13,2,2,1,0.59,0.09,0.34
+22,Manchester City,Wolverhampton Wanderers,W,L,33,15,3,0,1.5,0.68,1.09
+22,Crystal Palace,Watford,L,W,9,16,1,2,0.41,0.73,0.57
+22,Leicester City,Southampton,L,W,14,11,1,2,0.64,0.5,0.57
+22,Tottenham Hotspur,Manchester United,L,W,18,20,0,1,0.82,0.91,0.865
+22,Cardiff City,Huddersfield Town,D,D,14,6,0,0,0.64,0.27,0.455
+22,Brighton & Hove Albion,Liverpool,L,W,18,29,0,1,0.82,1.32,1.07
+22,West Ham United,Arsenal,W,L,17,15,1,0,0.77,0.68,0.725
+23,Liverpool,Crystal Palace,W,L,31,13,4,3,1.35,0.57,0.96
+23,Arsenal,Chelsea,W,L,29,22,2,0,1.26,0.96,1.11
+23,AFC Bournemouth,West Ham United,W,L,21,14,2,0,0.91,0.61,0.76
+23,Huddersfield Town,Manchester City,L,W,5,23,0,3,0.22,1,0.61
+23,Southampton,Everton,W,L,11,9,2,1,0.48,0.39,0.435
+23,Newcastle United,Cardiff City,W,L,10,5,3,0,0.43,0.22,0.325
+23,Fulham,Tottenham Hotspur,L,W,12,33,1,2,0.52,1.43,0.975
+23,Manchester United,Brighton & Hove Albion,W,L,24,8,2,1,1.04,0.35,0.695
+23,Watford,Burnley,D,D,17,9,0,0,0.74,0.39,0.565
+23,Wolverhampton Wanderers,Leicester City,W,L,17,17,4,3,0.74,0.74,0.74
+24,Fulham,Brighton & Hove Albion,W,L,15,8,4,2,0.63,0.33,0.48
+24,Wolverhampton Wanderers,West Ham United,W,L,20,14,3,0,0.83,0.58,0.705
+24,Liverpool,Leicester City,D,D,32,18,1,1,1.33,0.75,1.04
+24,Southampton,Crystal Palace,D,D,12,14,1,1,0.5,0.58,0.54
+24,Tottenham Hotspur,Watford,W,L,21,16,2,1,0.88,0.67,0.775
+24,Huddersfield Town,Everton,L,W,5,12,0,1,0.21,0.5,0.355
+24,AFC Bournemouth,Chelsea,W,L,24,22,4,0,1,0.92,0.96
+24,Newcastle United,Manchester City,W,L,13,23,2,1,0.54,0.96,0.75
+24,Manchester United,Burnley,D,D,25,10,2,2,1.04,0.42,0.73
+24,Arsenal,Cardiff City,W,L,32,5,2,1,1.33,0.21,0.77
+25,Manchester City,Arsenal,W,L,36,15,3,1,1.44,0.6,1.02
+25,West Ham United,Liverpool,D,D,18,30,1,1,0.72,1.2,0.96
+25,Chelsea,Huddersfield Town,W,L,28,6,5,0,1.12,0.24,0.68
+25,Crystal Palace,Fulham,W,L,12,2,2,0,0.48,0.08,0.28
+25,Burnley,Southampton,D,D,14,12,1,1,0.56,0.48,0.52
+25,Everton,Wolverhampton Wanderers,L,W,21,18,1,3,0.84,0.72,0.78
+25,Leicester City,Manchester United,L,W,14,23,0,1,0.56,0.92,0.74
+25,Brighton & Hove Albion,Watford,D,D,19,17,0,0,0.76,0.68,0.72
+25,Cardiff City,AFC Bournemouth,W,L,17,9,2,0,0.68,0.36,0.52
+25,Tottenham Hotspur,Newcastle United,W,L,24,11,1,0,0.96,0.44,0.7
+26,Liverpool,AFC Bournemouth,W,L,35,9,3,0,1.35,0.35,0.85
+26,Southampton,Cardiff City,L,W,12,8,1,2,0.46,0.31,0.385
+26,Huddersfield Town,Arsenal,L,W,5,18,1,2,0.19,0.69,0.44
+26,Wolverhampton Wanderers,Newcastle United,D,D,21,12,1,1,0.81,0.46,0.635
+26,Crystal Palace,West Ham United,D,D,13,15,1,1,0.5,0.58,0.54
+26,Watford,Everton,W,L,20,12,1,0,0.77,0.46,0.615
+26,Brighton & Hove Albion,Burnley,L,W,19,13,1,3,0.73,0.5,0.615
+26,Fulham,Manchester United,L,W,15,26,0,3,0.58,1,0.79
+26,Manchester City,Chelsea,W,L,39,22,6,0,1.5,0.85,1.175
+26,Tottenham Hotspur,Leicester City,W,L,27,18,3,1,1.04,0.69,0.865
+27,Everton,Manchester City,L,W,21,26,0,2,0.78,0.96,0.87
+27,AFC Bournemouth,Wolverhampton Wanderers,D,D,25,19,1,1,0.93,0.7,0.815
+27,Cardiff City,Watford,L,W,17,20,1,5,0.63,0.74,0.685
+27,Arsenal,Southampton,W,L,35,12,2,0,1.3,0.44,0.87
+27,Burnley,Tottenham Hotspur,W,L,17,33,2,1,0.63,1.22,0.925
+27,West Ham United,Fulham,W,L,21,2,3,1,0.78,0.07,0.425
+27,Chelsea,Brighton & Hove Albion,W,L,31,8,3,0,1.15,0.3,0.725
+27,Newcastle United,Huddersfield Town,W,L,16,6,2,0,0.59,0.22,0.405
+27,Manchester United,Liverpool,D,D,26,31,0,0,0.96,1.15,1.055
+27,Leicester City,Crystal Palace,L,W,14,17,1,4,0.52,0.63,0.575
+28,Southampton,Fulham,W,L,15,2,2,0,0.54,0.07,0.305
+28,Crystal Palace,Manchester United,L,W,13,29,1,3,0.46,1.04,0.75
+28,Leicester City,Brighton & Hove Albion,W,L,17,8,2,1,0.61,0.29,0.45
+28,Liverpool,Watford,W,L,38,20,5,0,1.36,0.71,1.035
+28,Manchester City,West Ham United,W,L,42,15,1,0,1.5,0.54,1.02
+28,Chelsea,Tottenham Hotspur,W,L,34,33,2,0,1.21,1.18,1.195
+28,Newcastle United,Burnley,W,L,19,13,2,0,0.68,0.46,0.57
+28,Huddersfield Town,Wolverhampton Wanderers,W,L,8,19,1,0,0.29,0.68,0.485
+28,Cardiff City,Everton,L,W,17,15,0,3,0.61,0.54,0.575
+28,Arsenal,AFC Bournemouth,W,L,38,9,5,1,1.36,0.32,0.84
+29,Wolverhampton Wanderers,Cardiff City,W,L,24,8,2,0,0.83,0.28,0.555
+29,Fulham,Chelsea,L,W,15,25,1,2,0.52,0.86,0.69
+29,Everton,Liverpool,D,D,22,32,0,0,0.76,1.1,0.93
+29,AFC Bournemouth,Manchester City,L,W,25,29,0,1,0.86,1,0.93
+29,Burnley,Crystal Palace,L,W,17,20,1,3,0.59,0.69,0.64
+29,Manchester United,Southampton,W,L,29,12,3,2,1,0.41,0.705
+29,Tottenham Hotspur,Arsenal,D,D,28,19,1,1,0.97,0.66,0.815
+29,Brighton & Hove Albion,Huddersfield Town,W,L,22,6,1,0,0.76,0.21,0.485
+29,Watford,Leicester City,W,L,23,18,2,1,0.79,0.62,0.705
+29,West Ham United,Newcastle United,W,L,24,12,2,0,0.83,0.41,0.62
+30,Arsenal,Manchester United,W,L,41,29,2,0,1.37,0.97,1.17
+30,Liverpool,Burnley,W,L,41,13,4,2,1.37,0.43,0.9
+30,Crystal Palace,Brighton & Hove Albion,L,W,13,11,1,2,0.43,0.37,0.4
+30,Chelsea,Wolverhampton Wanderers,D,D,35,20,1,1,1.17,0.67,0.92
+30,Manchester City,Watford,W,L,45,20,3,1,1.5,0.67,1.085
+30,Huddersfield Town,AFC Bournemouth,L,W,8,12,0,2,0.27,0.4,0.335
+30,Newcastle United,Everton,W,L,22,15,3,2,0.73,0.5,0.615
+30,Southampton,Tottenham Hotspur,W,L,18,33,2,1,0.6,1.1,0.85
+30,Leicester City,Fulham,W,L,20,2,3,1,0.67,0.07,0.37
+30,Cardiff City,West Ham United,W,L,20,15,2,0,0.67,0.5,0.585
+31,AFC Bournemouth,Newcastle United,D,D,26,13,2,2,0.84,0.42,0.63
+31,Tottenham Hotspur,Crystal Palace,W,L,31,20,2,0,1,0.65,0.825
+31,Burnley,Leicester City,L,W,17,21,1,2,0.55,0.68,0.615
+31,Wolverhampton Wanderers,Arsenal,W,L,27,19,3,1,0.87,0.61,0.74
+31,Fulham,Liverpool,L,W,15,35,1,2,0.48,1.13,0.805
+31,Watford,Southampton,D,D,24,13,1,1,0.77,0.42,0.595
+31,West Ham United,Huddersfield Town,W,L,27,6,4,3,0.87,0.19,0.53
+31,Everton,Chelsea,W,L,25,25,2,0,0.81,0.81,0.81
+31,Brighton & Hove Albion,Cardiff City,L,W,22,11,0,2,0.71,0.35,0.53
+31,Manchester United,Manchester City,L,W,29,32,0,2,0.94,1.03,0.985
+32,Fulham,Manchester City,L,W,15,35,0,2,0.47,1.09,0.78
+32,Burnley,Wolverhampton Wanderers,W,L,20,20,2,0,0.63,0.63,0.63
+32,Leicester City,AFC Bournemouth,W,L,23,12,2,0,0.72,0.38,0.55
+32,Arsenal,Newcastle United,W,L,44,13,2,0,1.38,0.41,0.895
+32,Crystal Palace,Huddersfield Town,W,L,16,6,2,0,0.5,0.19,0.345
+32,West Ham United,Everton,L,W,27,18,0,2,0.84,0.56,0.7
+32,Brighton & Hove Albion,Southampton,L,W,22,16,0,1,0.69,0.5,0.595
+32,Cardiff City,Chelsea,L,W,20,28,1,2,0.63,0.88,0.755
+32,Liverpool,Tottenham Hotspur,W,L,44,33,2,1,1.38,1.03,1.205
+32,Manchester United,Watford,W,L,32,20,2,1,1,0.63,0.815
+33,Tottenham Hotspur,Brighton & Hove Albion,W,L,34,11,1,0,1.03,0.33,0.68
+33,AFC Bournemouth,Burnley,L,W,26,16,1,3,0.79,0.48,0.635
+33,Manchester City,Cardiff City,W,L,48,11,2,0,1.45,0.33,0.89
+33,Wolverhampton Wanderers,Manchester United,W,L,30,29,2,1,0.91,0.88,0.895
+33,Huddersfield Town,Leicester City,L,W,8,24,1,4,0.24,0.73,0.485
+33,Chelsea,West Ham United,W,L,38,15,2,0,1.15,0.45,0.8
+33,Southampton,Liverpool,L,W,18,38,1,3,0.55,1.15,0.85
+33,Newcastle United,Crystal Palace,L,W,22,23,0,1,0.67,0.7,0.685
+33,Everton,Arsenal,W,L,28,19,1,0,0.85,0.58,0.715
+33,Watford,Fulham,W,L,27,2,4,1,0.82,0.06,0.44
+34,Leicester City,Newcastle United,L,W,23,16,0,1,0.68,0.47,0.575
+34,Fulham,Everton,W,L,18,18,2,0,0.53,0.53,0.53
+34,Liverpool,Chelsea,W,L,47,28,2,0,1.38,0.82,1.1
+34,Watford,Arsenal,L,W,27,22,0,1,0.79,0.65,0.72
+34,Burnley,Cardiff City,W,L,23,11,2,0,0.68,0.32,0.5
+34,Manchester United,West Ham United,W,L,35,15,2,1,1.03,0.44,0.735
+34,Southampton,Wolverhampton Wanderers,W,L,21,20,3,1,0.62,0.59,0.605
+34,Tottenham Hotspur,Huddersfield Town,W,L,37,6,4,0,1.09,0.18,0.635
+34,Crystal Palace,Manchester City,L,W,16,38,1,3,0.47,1.12,0.795
+34,Brighton & Hove Albion,AFC Bournemouth,L,W,22,15,0,5,0.65,0.44,0.545
+35,Arsenal,Crystal Palace,L,W,44,26,2,3,1.26,0.74,1
+35,Everton,Manchester United,W,L,31,29,4,0,0.89,0.83,0.86
+35,Manchester City,Tottenham Hotspur,W,L,51,33,1,0,1.46,0.94,1.2
+35,Newcastle United,Southampton,W,L,25,16,3,1,0.71,0.46,0.585
+35,West Ham United,Leicester City,D,D,28,25,2,2,0.8,0.71,0.755
+35,AFC Bournemouth,Fulham,L,W,26,5,0,1,0.74,0.14,0.44
+35,Cardiff City,Liverpool,L,W,20,41,0,2,0.57,1.17,0.87
+35,Wolverhampton Wanderers,Brighton & Hove Albion,D,D,31,12,0,0,0.89,0.34,0.615
+35,Chelsea,Burnley,D,D,39,17,2,2,1.11,0.49,0.8
+35,Huddersfield Town,Watford,L,W,8,23,1,2,0.23,0.66,0.445
+36,Watford,Wolverhampton Wanderers,L,W,27,23,1,2,0.75,0.64,0.695
+36,Burnley,Manchester City,L,W,23,41,0,1,0.64,1.14,0.89
+36,Leicester City,Arsenal,W,L,26,22,3,0,0.72,0.61,0.665
+36,Manchester United,Chelsea,D,D,36,29,1,1,1,0.81,0.905
+36,Southampton,AFC Bournemouth,D,D,22,16,3,3,0.61,0.44,0.525
+36,Brighton & Hove Albion,Newcastle United,D,D,23,17,1,1,0.64,0.47,0.555
+36,Crystal Palace,Everton,D,D,17,19,0,0,0.47,0.53,0.5
+36,Tottenham Hotspur,West Ham United,L,W,37,18,0,1,1.03,0.5,0.765
+36,Fulham,Cardiff City,W,L,21,11,1,0,0.58,0.31,0.445
+36,Liverpool,Huddersfield Town,W,L,50,6,5,0,1.39,0.17,0.78
+37,West Ham United,Southampton,W,L,31,16,3,0,0.84,0.43,0.635
+37,Cardiff City,Crystal Palace,L,W,20,29,2,3,0.54,0.78,0.66
+37,Manchester City,Leicester City,W,L,54,25,1,0,1.46,0.68,1.07
+37,AFC Bournemouth,Tottenham Hotspur,W,L,29,33,1,0,0.78,0.89,0.835
+37,Newcastle United,Liverpool,L,W,25,44,2,3,0.68,1.19,0.935
+37,Wolverhampton Wanderers,Fulham,W,L,34,5,1,0,0.92,0.14,0.53
+37,Everton,Burnley,W,L,34,17,2,0,0.92,0.46,0.69
+37,Chelsea,Watford,W,L,42,23,3,0,1.14,0.62,0.88
+37,Huddersfield Town,Manchester United,D,D,9,30,1,1,0.24,0.81,0.525
+37,Arsenal,Brighton & Hove Albion,D,D,45,13,1,1,1.22,0.35,0.785
+38,Manchester United,Cardiff City,L,W,36,14,0,2,0.95,0.37,0.66
+38,Watford,West Ham United,L,W,27,21,1,4,0.71,0.55,0.63
+38,Crystal Palace,AFC Bournemouth,W,L,20,16,5,3,0.53,0.42,0.475
+38,Tottenham Hotspur,Everton,D,D,38,20,2,2,1,0.53,0.765
+38,Fulham,Newcastle United,L,W,21,20,0,4,0.55,0.53,0.54
+38,Brighton & Hove Albion,Manchester City,L,W,23,44,1,4,0.61,1.16,0.885
+38,Leicester City,Chelsea,D,D,27,30,0,0,0.71,0.79,0.75
+38,Burnley,Arsenal,L,W,23,25,1,3,0.61,0.66,0.635
+38,Southampton,Huddersfield Town,D,D,23,7,1,1,0.61,0.18,0.395
+38,Liverpool,Wolverhampton Wanderers,W,L,53,23,2,0,1.39,0.61,1
